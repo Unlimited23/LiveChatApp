@@ -32,7 +32,14 @@ Run the following command in a cmd:
 
 `php artisan migrate`
 
-* Step 10 - Run the project
+* Step 10 - install cUrl certificate (cacert.pem)
+
+* Step 11 - compile assets
+Run the following command in a cmd:
+
+`npm run dev`
+
+* Step 12 - Run the project
 Run the following command in a cmd:
 
 `php artisan serve`
